@@ -1,5 +1,5 @@
 # 📊 Accounts Receivable Dashboard
-![Accounts Receivable Dashboard](accounts-receivable-banner.png)
+![Accounts Receivable Dashboard](file_00000000cdf471f48616b7d129205e80.png)
 
 > An interactive Power BI dashboard that provides comprehensive Accounts Receivable (AR) insights, enabling finance teams to monitor outstanding balances, analyze aging trends, identify high-risk accounts, and improve cash flow management.
 
